@@ -20,7 +20,7 @@
 | Proyecto | Descripción | Stack |
 |---------|-------------|-------|
 | [Plataforma de Evaluación Psiquiatrica]() | Sistema para evaluar pacientes su primera consutla en centros de salud psiquiatricos. | NestJS Next.js |
-| [El Pana Burger]() | Sitio web para restaurante venezolano con SEO local y diseño mobile-first. | HTML, CSS, JS, Bootstrap |
+
 
 
 ---
