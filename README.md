@@ -19,7 +19,7 @@
 
 | Proyecto | Descripción | Stack |
 |---------|-------------|-------|
-| [Plataforma de Evaluación Psiquiatrica]() | Sistema para evaluar pacientes su primera consutla en centros de salud psiquiatricos. | NestJS Next.js |
+| [Plataforma de Evaluación Psiquiatrica]() | Sistema para evaluar pacientes su primera consutla en centros de salud psiquiatricos. | MERN (MongoDB, Express, React, Node.js) |
 
 
 
