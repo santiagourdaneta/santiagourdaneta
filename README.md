@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Santiago Urdaneta 👋</h1>
 
-<!--
-**santiagourdaneta/santiagourdaneta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desarrollador Web Full Stack ⚙️ | Apasionado por el rendimiento, SEO y buenas prácticas 🧠<br>
+ Viviendo actualmente en Lima, Perú 🇵🇪
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mí
+
+- 🎯 Enfocado en soluciones web rápidas, responsivas y seguras.
+- 🧠 Me apasionan la optimización SEO, la accesibilidad y el desarrollo centrado en el usuario.
+- 🛠️ Periodicamente subo proyectos de distintas stacks a mi repositorio. Ej: Express+React, Laravel+Vue, Django+React, etc. 
+
+---
+
+### 🔧 Últimos proyectos
+
+| Proyecto | Descripción | Stack |
+|---------|-------------|-------|
+| [Plataforma de Evaluación Psiquiatrica]() | Sistema para evaluar pacientes su primera consutla en centros de salud psiquiatricos. | NestJS Next.js |
+| [El Pana Burger]() | Sitio web para restaurante venezolano con SEO local y diseño mobile-first. | HTML, CSS, JS, Bootstrap |
+
+
+---
+
+### 🚀 Mis estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santiagourdaneta&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+---
+
+### 🌐 Conéctate conmigo
+
+- 🌍 [Mi sitio personal / portafolio](https://santiagourdaneta.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiagourdanetaanton/)
+- 🎨 [Behance](https://www.behance.net/santiagourdaneta)
+- 📫 Email: santurdaneta@gmail.com
+
+---
+
+<sub>“Transformando ideas en soluciones web escalables y funcionales.”</sub>
