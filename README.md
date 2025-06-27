@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Santiago Urdaneta 👋</h1>
 
 <p align="center">
-  Desarrollador Web Full Stack ⚙️ | Apasionado por el rendimiento, SEO y buenas prácticas 🧠<br>
+  Desarrollador Full Stack ⚙️ | Apasionado por el rendimiento, SEO y buenas prácticas 🧠<br>
  Viviendo actualmente en Lima, Perú 🇵🇪
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🎯 Enfocado en soluciones web rápidas, responsivas y seguras.
+- 🎯 Enfocado en soluciones rápidas, responsivas y seguras.
 - 🧠 Me apasionan la optimización SEO, la accesibilidad y el desarrollo centrado en el usuario.
 - 🛠️ Periodicamente subo proyectos de distintas stacks a mi repositorio. Ej: Express+React, Laravel+Vue, Django+React, etc. 
 
